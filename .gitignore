@@ -1,0 +1,44 @@
+# Ignora pastas de plataformas específicas de cada projeto
+**/android/
+**/ios/
+**/linux/
+**/macos/
+**/web/
+**/windows/
+
+# Ignora arquivos de configuração do Flutter
+.dart_tool/
+.build/
+.pub/
+.gradle/
+
+# Ignora dependências locais
+pubspec.lock
+flutter_*.iml
+
+# Ignora arquivos temporários, logs e cache
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de configuração do Xcode
+**/*.xcworkspace/
+**/*.xcodeproj/
+**/*.xcassets/
+**/*.xcconfig/
+**/Pods/
+**/Podfile.lock
+
+# Ignora arquivos do Android Studio
+**/*.iml
+**/.idea/
+**/local.properties
+
+# Ignora pacotes do VSCode
+**/.vscode/
+
+# Ignora binários do Flutter
+**/build/
