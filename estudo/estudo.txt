@@ -1,0 +1,24 @@
+Flutter
+
+Cross-Plataform - Bse Única de Codigos
+Dart
+POO & Tipagem Forte
+Árvore de Componentes - Tudo é Widget
+
+Componentes Visiveis e invisiveis
+Stateless -> Renderiza por algo externo
+Statefull -> Estado Interno mudando atualiza
+
+Principais Widgets
+- MaterialApp e Scaffold
+- Container, Row, Column -> Flexible & Expanded
+- Stack, Card
+- Repetir dados -> ListView, GridView, ListTile
+- Text, Image, Icon
+- TextField and ElevatedButton
+
+
+Container vs Column/Row
+Child - Children
+Alinhamento e estilo - Alinhamento
+Largura Flexivel = Sempre ocupa toda altura/largura
